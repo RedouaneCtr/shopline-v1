@@ -1,3 +1,5 @@
+# Sticky Task
+
 **StickyTask**: A Full-Stack Note App Built with Next.js and Express.
 
 ## Requirements
